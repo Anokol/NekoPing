@@ -1,0 +1,10 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource prefix="/">
+    <file>neko.ico</file>
+    <file>resources/copy-alt.ico</file>
+    <file>resources/trash.ico</file>
+    <file>resources/chart-histogram.ico</file>
+    <file>resources/Montserrat.ttf</file>
+  </qresource>
+</RCC>
