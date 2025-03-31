@@ -1,3 +1,6 @@
+# Copyright (c) 2024 Anokol
+# License MIT: https://opensource.org/licenses/MIT
+
 import time
 
 import numpy as np
