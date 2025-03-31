@@ -1,3 +1,7 @@
+# Copyright (c) 2024 Anokol
+# License MIT: https://opensource.org/licenses/MIT
+# mua
+
 import sys
 import resources_rc
 from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QHBoxLayout, QLineEdit, QListWidget, QScrollArea, \
