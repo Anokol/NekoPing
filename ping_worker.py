@@ -1,3 +1,6 @@
+# Copyright (c) 2024 Anokol
+# License MIT: https://opensource.org/licenses/MIT
+
 from PyQt5.QtCore import QThread, pyqtSignal
 from ping3 import ping
 
