@@ -1,3 +1,6 @@
+# Copyright (c) 2024 Anokol
+# License MIT: https://opensource.org/licenses/MIT
+
 from PyQt5.QtGui import QIcon, QFontDatabase
 from PyQt5.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPushButton
 from PyQt5.QtCore import Qt, QTimer
