@@ -1,3 +1,6 @@
+# Copyright (c) 2024 Anokol
+# License MIT: https://opensource.org/licenses/MIT
+
 from pyqtgraph import AxisItem
 from datetime import datetime
 
